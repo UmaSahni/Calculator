@@ -1,0 +1,20 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Sora:wght@500&display=swap');
+
+body{
+  font-family: 'Sora', sans-serif;
+
+}
+
+.row{
+    margin:8px 0;
+
+}
+
+.row input {
+ margin: 6px;
+    /* padding: 127px; */
+    border: 2px solid black;
+    width: 18rem;
+    border-radius: 4px;
+}
